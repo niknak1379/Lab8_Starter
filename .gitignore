@@ -2,3 +2,7 @@
 .DS_Store
 node_modules/
 node_modules
+/.idea/vcs.xml
+/.idea/.gitignore
+/.idea/Lab8_Starter.iml
+/.idea/modules.xml
